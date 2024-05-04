@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Davronbek-Bahromov
-- 👀 I’m interested in Proggamming
-- I've got Frontend developer skills.
+- 👀 I’m interested in Programming
+- I've got Backend developer skills.
 - I can make websites.
-- 🌱 I’m currently learning Beckend Python
+- 🌱 I’m currently learning ...
 - I have got some web-site and I like programming because it so good work.
 - I like Python.
 
